@@ -1,0 +1,7 @@
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\bin\Debug\netcoreapp3.1\Rainbowschool.exe
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\bin\Debug\netcoreapp3.1\Rainbowschool.dll
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Rainbowschool.AssemblyInfoInputs.cache
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Rainbowschool.AssemblyInfo.cs
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Rainbowschool.csproj.CoreCompileInputs.cache
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Rainbowschool.dll
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Rainbowschool.pdb

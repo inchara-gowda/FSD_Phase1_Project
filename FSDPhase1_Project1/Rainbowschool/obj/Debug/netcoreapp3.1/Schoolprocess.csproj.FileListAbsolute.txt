@@ -1,0 +1,24 @@
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\bin\Debug\netcoreapp3.1\Schoolprocess.exe
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\bin\Debug\netcoreapp3.1\Schoolprocess.deps.json
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\bin\Debug\netcoreapp3.1\Schoolprocess.runtimeconfig.json
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\bin\Debug\netcoreapp3.1\Schoolprocess.runtimeconfig.dev.json
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\bin\Debug\netcoreapp3.1\Schoolprocess.dll
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\bin\Debug\netcoreapp3.1\Schoolprocess.pdb
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Schoolprocess.AssemblyInfoInputs.cache
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Schoolprocess.AssemblyInfo.cs
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Schoolprocess.csproj.CoreCompileInputs.cache
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Schoolprocess.dll
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Schoolprocess.pdb
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Schoolprocess.genruntimeconfig.cache
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Schoolprocess.csprojAssemblyReference.cache
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Rainbowschool\bin\Debug\netcoreapp3.1\Schoolprocess.exe
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Rainbowschool\bin\Debug\netcoreapp3.1\Schoolprocess.deps.json
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Rainbowschool\bin\Debug\netcoreapp3.1\Schoolprocess.runtimeconfig.json
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Rainbowschool\bin\Debug\netcoreapp3.1\Schoolprocess.runtimeconfig.dev.json
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Rainbowschool\bin\Debug\netcoreapp3.1\Schoolprocess.dll
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Rainbowschool\bin\Debug\netcoreapp3.1\Schoolprocess.pdb
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Schoolprocess.csprojAssemblyReference.cache
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Schoolprocess.AssemblyInfoInputs.cache
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Schoolprocess.AssemblyInfo.cs
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Schoolprocess.dll
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Rainbowschool\obj\Debug\netcoreapp3.1\Schoolprocess.pdb

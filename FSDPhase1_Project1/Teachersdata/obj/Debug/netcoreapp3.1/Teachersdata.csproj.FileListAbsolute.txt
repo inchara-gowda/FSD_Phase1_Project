@@ -1,0 +1,28 @@
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\bin\Debug\netcoreapp3.1\Teachersdata.exe
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\bin\Debug\netcoreapp3.1\Teachersdata.deps.json
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\bin\Debug\netcoreapp3.1\Teachersdata.runtimeconfig.json
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\bin\Debug\netcoreapp3.1\Teachersdata.runtimeconfig.dev.json
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\bin\Debug\netcoreapp3.1\Teachersdata.dll
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\bin\Debug\netcoreapp3.1\Teachersdata.pdb
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.csprojAssemblyReference.cache
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.Form1.resources
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.csproj.GenerateResource.cache
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.AssemblyInfoInputs.cache
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.AssemblyInfo.cs
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.csproj.CoreCompileInputs.cache
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.dll
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.pdb
+C:\Users\Santhoshika_S_N_K\Source\Repos\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.genruntimeconfig.cache
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Teachersdata\bin\Debug\netcoreapp3.1\Teachersdata.exe
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Teachersdata\bin\Debug\netcoreapp3.1\Teachersdata.deps.json
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Teachersdata\bin\Debug\netcoreapp3.1\Teachersdata.runtimeconfig.json
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Teachersdata\bin\Debug\netcoreapp3.1\Teachersdata.runtimeconfig.dev.json
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Teachersdata\bin\Debug\netcoreapp3.1\Teachersdata.dll
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Teachersdata\bin\Debug\netcoreapp3.1\Teachersdata.pdb
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.csprojAssemblyReference.cache
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.Form1.resources
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.csproj.GenerateResource.cache
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.AssemblyInfoInputs.cache
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.AssemblyInfo.cs
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.dll
+C:\Users\Ravii\source\repos\FSD Phase1\FSD_Phase1_project\FSDPhase1_Project1\Teachersdata\obj\Debug\netcoreapp3.1\Teachersdata.pdb
